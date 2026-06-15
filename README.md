@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/f9yoQ7kr)
 # 2526 - Recuperación de entornos de desarrollo - DAW
 
 > AVISO!!! Únicamente puedes usar un editor (No IDE) y la documentación de plantUML para generar los diagramas UML. El uso de cualquier recurso que no sean estos, supondrá la no superación de la prueba.
@@ -5,7 +6,7 @@
 > Evaluación de RA1, RA4, RA5 y RA6.
  
 ---
-**Nombre:** [Nombre del alumno]
+**Nombre:** Daniel Felipe Oliveros Rojas 
 **RA de los que te examinas:** [RA de los que te examinas. Ojo, no confundas RAs con Unidad]
 ---
 
@@ -32,10 +33,30 @@ Kotlin es un lenguaje de **alto nivel**, normalmente **compilado a bytecode** pa
 | **Nivel de abstracción**        | Kotlin es un lenguaje de **alto nivel**. Esto significa que escribimos instrucciones que son fáciles de entender para una persona, sin tener que trabajar directamente con unos y ceros, memoria o instrucciones del procesador. Por ejemplo, podemos crear variables, funciones y clases de una forma bastante clara.                                                                                                                                                                                                                                                                                                                                         |
 | **Modo de ejecución**           | Normalmente, Kotlin se usa sobre la **JVM**, la misma máquina virtual que utiliza Java. El proceso sería: escribimos **código fuente** en Kotlin, el compilador lo transforma en un código intermedio llamado **bytecode**, y después la JVM lo ejecuta. Por eso, un programa Kotlin puede funcionar en distintos sistemas siempre que tengan instalada la máquina virtual adecuada.                                                                                                                                                                                                                                                                           |
 | **Paradigmas soportados**       | Kotlin permite programar de varias formas. Principalmente se usa como lenguaje **orientado a objetos**, porque permite crear clases y objetos. También permite usar funciones de forma cómoda, por lo que tiene características de programación **funcional**. Para este nivel, lo importante es entender que Kotlin nos permite organizar el programa en clases, funciones y datos.                                                                                                                                                                                                                                                                           |
-| **Características principales** | Kotlin es un lenguaje moderno, claro y bastante seguro. Una de sus características más importantes es que ayuda a evitar errores con valores `null`. También permite escribir menos código que Java para hacer algunas tareas. Además, se puede usar junto con Java, por lo que muchas librerías de Java pueden utilizarse también en Kotlin. Kotlin se utiliza mucho en el desarrollo de aplicaciones Android, aunque también puede utilizarse para programas de escritorio, aplicaciones de servidor y otros tipos de proyectos. En clase lo hemos usado para aprender programación estructurada, funciones, clases, objetos y buenas prácticas. `fun main() { println("Hola mundo") } ` Este programa muestra por pantalla el texto `Hola mundo`.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Características principales** | Kotlin es un lenguaje moderno, claro y bastante seguro. Una de sus características más importantes es que ayuda a evitar errores con valores `null`. También permite escribir menos código que Java para hacer algunas tareas. Además, se puede usar junto con Java, por lo que muchas librerías de Java pueden utilizarse también en Kotlin. Kotlin se utiliza mucho en el desarrollo de aplicaciones Android, aunque también puede utilizarse para programas de escritorio, aplicaciones de servidor y otros tipos de proyectos. En clase lo hemos usado para aprender programación estructurada, funciones, clases, objetos y buenas prácticas. `fun main() { println("Hola mundo") } ` Este programa muestra por pantalla el texto `Hola mundo`.                                                        
 
 
-*Respuesta a la pregunta 2. (mínimo 500 palabras)*
+|
+=============================================
+
+*--Java---*
+
+| **Nivel de abstracción**        | java es un lenguaje de **alto nivel**. Esto significa que escribimos instrucciones que son fáciles de entender para una persona, sin tener que trabajar directamente con unos y ceros, memoria o instrucciones del procesador. Por ejemplo, podemos crear variables, funciones y clases de una forma bastante clara.|                                                                                                                                                                                                                                                                                                                                         |
+| **Modo de ejecución**           | java se ejecuta sobre un tipo de paquete de herramientas llamado skd que gracias a esta herramientas se puede ejecutar java |                                                                                                                                                                                                                                                                           |
+| **Paradigmas soportados**       | java esta orientado principal a objetos ya que esta orientado a ello todo es un objeto en java |                                                                                                                                                                                                                                       |
+| **Características principales** | java la principla carateristica es que esta orientado a la programacion orientada objetos pero muy verboso  .|    
+
+
+
+=======================================
+*-----python--------*
+
+| **Nivel de abstracción**        | Python es un lenguaje de **alto nivel**. Esto significa que escribimos instrucciones que son fáciles de entender para una persona, sin tener que trabajar directamente con unos y ceros, memoria o instrucciones del procesador. Por ejemplo, podemos crear variables, funciones y clases de una forma bastante clara.                                                                                                                                                                                                                                                                                                                                         |
+| **Modo de ejecución**           | Python es un lenjuague de programcion que se ejecuta linea a linea                                                                                                                                                                                                                                                        |
+| **Paradigmas soportados**       |  Python es un lenguaje muy versatil ya que permite la programacion funcional y orientada a objetos                                                                                                                                                                                                                                           |
+| **Características principales** | Python la principal caracteristica de es su facilidad simplesa de sintaxis 
+
+Respuesta a la pregunta 2. (mínimo 500 palabras)*
 
 
 ---
@@ -47,7 +68,10 @@ Kotlin es un lenguaje de **alto nivel**, normalmente **compilado a bytecode** pa
 
 ### 8. (5 puntos - 10 min) ¿Qué áreas principales utiliza git para gestionar los cambios en un proyecto y para qué sirven cada uno?
 
-*Respuesta a la pregunta 8. (mínimo 200 palabras)*
+*
+Git es la principal carateristicas es para el control de versiones y el manejo de ramas y la resolucion de conflitos de codigo 
+
+Respuesta a la pregunta 8. (mínimo 200 palabras)*
 
 
 ---
@@ -68,22 +92,22 @@ Ejemplo de respuesta:
     + comando:
 
 3. Crear la rama `featureA` y cambiar a ella.
-    + comando:
+    + comando:  *git brach featureA*
 
 4. Ver el estado del repositorio.
-    + comando:
+    + comando: *git status* 
 
 5. Clonar el repositorio `https://github.com/revilofe/HundirFlota.git`.
-    + comando:
+    + comando: git clone https://github.com/revilofe/HundirFlota.git
 
 6. Descargar al repositorio local los cambios del remote `origin` rama `main`.
-    + comando:
+    + comando: 
 
 7. Subir los cambios del repositorio local al remote `origin` rama `main`.
-    + comando:
+    + comando: git push 
 
 8. Combinar la rama `featureA` con la rama principal.
-    + comando:
+    + comando: git merce
 
 9. Aplicar rebase a la rama `featureA` con la rama principal.
     + comando:
