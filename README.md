@@ -6,7 +6,7 @@
 > Evaluación de RA1, RA4, RA5 y RA6.
  
 ---
-**Nombre:** [Nombre del alumno]
+**Nombre:** Daniel Felipe Oliveros Rojas 
 **RA de los que te examinas:** [RA de los que te examinas. Ojo, no confundas RAs con Unidad]
 ---
 
@@ -33,10 +33,27 @@ Kotlin es un lenguaje de **alto nivel**, normalmente **compilado a bytecode** pa
 | **Nivel de abstracción**        | Kotlin es un lenguaje de **alto nivel**. Esto significa que escribimos instrucciones que son fáciles de entender para una persona, sin tener que trabajar directamente con unos y ceros, memoria o instrucciones del procesador. Por ejemplo, podemos crear variables, funciones y clases de una forma bastante clara.                                                                                                                                                                                                                                                                                                                                         |
 | **Modo de ejecución**           | Normalmente, Kotlin se usa sobre la **JVM**, la misma máquina virtual que utiliza Java. El proceso sería: escribimos **código fuente** en Kotlin, el compilador lo transforma en un código intermedio llamado **bytecode**, y después la JVM lo ejecuta. Por eso, un programa Kotlin puede funcionar en distintos sistemas siempre que tengan instalada la máquina virtual adecuada.                                                                                                                                                                                                                                                                           |
 | **Paradigmas soportados**       | Kotlin permite programar de varias formas. Principalmente se usa como lenguaje **orientado a objetos**, porque permite crear clases y objetos. También permite usar funciones de forma cómoda, por lo que tiene características de programación **funcional**. Para este nivel, lo importante es entender que Kotlin nos permite organizar el programa en clases, funciones y datos.                                                                                                                                                                                                                                                                           |
-| **Características principales** | Kotlin es un lenguaje moderno, claro y bastante seguro. Una de sus características más importantes es que ayuda a evitar errores con valores `null`. También permite escribir menos código que Java para hacer algunas tareas. Además, se puede usar junto con Java, por lo que muchas librerías de Java pueden utilizarse también en Kotlin. Kotlin se utiliza mucho en el desarrollo de aplicaciones Android, aunque también puede utilizarse para programas de escritorio, aplicaciones de servidor y otros tipos de proyectos. En clase lo hemos usado para aprender programación estructurada, funciones, clases, objetos y buenas prácticas. `fun main() { println("Hola mundo") } ` Este programa muestra por pantalla el texto `Hola mundo`.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Características principales** | Kotlin es un lenguaje moderno, claro y bastante seguro. Una de sus características más importantes es que ayuda a evitar errores con valores `null`. También permite escribir menos código que Java para hacer algunas tareas. Además, se puede usar junto con Java, por lo que muchas librerías de Java pueden utilizarse también en Kotlin. Kotlin se utiliza mucho en el desarrollo de aplicaciones Android, aunque también puede utilizarse para programas de escritorio, aplicaciones de servidor y otros tipos de proyectos. En clase lo hemos usado para aprender programación estructurada, funciones, clases, objetos y buenas prácticas. `fun main() { println("Hola mundo") } ` Este programa muestra por pantalla el texto `Hola mundo`.                                                        
 
 
-*Respuesta a la pregunta 2. (mínimo 500 palabras)*
+|
+
+
+*--Java---
+
+| **Nivel de abstracción**        | java es un lenguaje de **alto nivel**. Esto significa que escribimos instrucciones que son fáciles de entender para una persona, sin tener que trabajar directamente con unos y ceros, memoria o instrucciones del procesador. Por ejemplo, podemos crear variables, funciones y clases de una forma bastante clara.                                                                                                                                                                                                                                                                                                                                         |
+| **Modo de ejecución**           | java se ejecuta sobre un tipo de paquete de herramientas llamado skd que gracias a esta herramientas se puede ejecutar java                                                                                                                                                                                                                                                                           |
+| **Paradigmas soportados**       | java esta orientado principal a objetos ya que esta orientado a ello todo es un objeto en java                                                                                                                                                                                                                                         |
+| **Características principales** | java la principla carateristica es que esta orientado a la programacion orientada objetos pero muy verboso  .|    
+
+
+
+
+
+
+
+
+Respuesta a la pregunta 2. (mínimo 500 palabras)*
 
 
 ---
